@@ -1,0 +1,10 @@
+{
+  "name": "kepler-exoplanets",
+  "version": "1.0.0",
+  "description": "Exoplanets parser on Kepler's Object of Interest(KOI).",
+  "main": "index.js",
+  "repository": "https://github.com/BernStrom/kepler-exoplanents",
+  "author": "Bern",
+  "license": "MIT",
+  "private": true
+}
