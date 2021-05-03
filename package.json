@@ -3,11 +3,15 @@
   "version": "1.0.0",
   "description": "Exoplanets parser on Kepler's Object of Interest(KOI).",
   "main": "index.js",
-  "repository": "https://github.com/BernStrom/kepler-exoplanents",
+  "repository":{
+    "url": "https://github.com/BernStrom/kepler-exoplanents",
+    "type": "git"
+  },
   "author": "Bern",
   "license": "MIT",
   "private": true,
   "dependencies": {
     "csv-parse": "^4.15.4"
-  }
+  },
+  "homepage": "https://github.com/BernStrom/kepler-exoplanents/#readme"
 }
