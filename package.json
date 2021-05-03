@@ -6,5 +6,8 @@
   "repository": "https://github.com/BernStrom/kepler-exoplanents",
   "author": "Bern",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "csv-parse": "^4.15.4"
+  }
 }
